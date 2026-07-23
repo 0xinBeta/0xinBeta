@@ -28,6 +28,7 @@ Building at [Nexus Oriented](https://www.nexusoriented.com/) — a digital produ
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [nanolens](https://github.com/0xinBeta/nanolens) | On-device Gemini Nano assistant that highlights the product-page sections answering a shopper's question | JavaScript, Chrome Prompt API, Shadow DOM, esbuild |
 | [backtestingUI](https://github.com/0xinBeta/backtestingUI) | Interactive crypto strategy research, optimization, and backtesting | Python, Streamlit, CCXT, vectorbt |
 | [AI-or-NOT-discord-bot](https://github.com/0xinBeta/AI-or-NOT-discord-bot) | Discord automation connecting AI detection with Google Drive and Sheets | Python, Discord, Google APIs, Docker |
 | [trader-bot](https://github.com/0xinBeta/trader-bot) | Asynchronous futures automation with configurable risk controls | Python, asyncio, Binance APIs |

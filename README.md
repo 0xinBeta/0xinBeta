@@ -28,6 +28,7 @@ Building at [Nexus Oriented](https://www.nexusoriented.com/) — a digital produ
 
 | Project | What it does | Stack |
 | --- | --- | --- |
+| [laptop-security-camera](https://github.com/0xinBeta/laptop-security-camera) | Turns a spare MacBook into an end-to-end-encrypted home security camera with P2P live video, encrypted motion recordings, and 2FA | Swift/SwiftUI, WebRTC, TypeScript, React, Cloudflare Workers |
 | [nanolens](https://github.com/0xinBeta/nanolens) | On-device Gemini Nano assistant that highlights the product-page sections answering a shopper's question | JavaScript, Chrome Prompt API, Shadow DOM, esbuild |
 | [backtestingUI](https://github.com/0xinBeta/backtestingUI) | Interactive crypto strategy research, optimization, and backtesting | Python, Streamlit, CCXT, vectorbt |
 | [AI-or-NOT-discord-bot](https://github.com/0xinBeta/AI-or-NOT-discord-bot) | Discord automation connecting AI detection with Google Drive and Sheets | Python, Discord, Google APIs, Docker |

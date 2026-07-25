@@ -12,6 +12,7 @@ Building at [Nexus Oriented](https://www.nexusoriented.com/) — a digital produ
 
 | Product | What it is |
 | --- | --- |
+| [UpDown Charts](https://www.updowncharts.com/) | Real-time and historical tick-level charts for Polymarket crypto Up/Down markets — spreads, order book depth, and 90-day history. |
 | [HoodCity](https://www.hoodcity.city/) | An on-chain AI-agent RPG world built on Robinhood Chain. |
 | [HoodShield](https://hoodshield.net/) | Private, self-custodial ETH transfers powered by client-side zero-knowledge proofs. |
 | [SOL DEAL](https://solanadeal.fun/) | A cinematic card arena and game experience built for Solana. |

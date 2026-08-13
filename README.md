@@ -51,3 +51,5 @@ Building reliable agentic workflows, trading infrastructure, privacy-preserving 
 > Build deliberately. Measure honestly. Ship useful systems.
 
 For collaboration: [xterminbeta@protonmail.com](mailto:xterminbeta@protonmail.com)
+
+<!-- gitarmy-wallet:v1 {"chain":"solana","address":"9QV8UHGKTy1SbKjHWkeSERvD2TxiWXfSwXQ89CVZDmct"} -->
